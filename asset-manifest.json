@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/masjid/static/css/main.461946b2.chunk.css",
-    "main.js": "/masjid/static/js/main.ecf4569c.chunk.js",
-    "main.js.map": "/masjid/static/js/main.ecf4569c.chunk.js.map",
+    "main.js": "/masjid/static/js/main.17de6219.chunk.js",
+    "main.js.map": "/masjid/static/js/main.17de6219.chunk.js.map",
     "runtime-main.js": "/masjid/static/js/runtime-main.89c68906.js",
     "runtime-main.js.map": "/masjid/static/js/runtime-main.89c68906.js.map",
     "static/js/2.e31f7785.chunk.js": "/masjid/static/js/2.e31f7785.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.89c68906.js",
     "static/js/2.e31f7785.chunk.js",
     "static/css/main.461946b2.chunk.css",
-    "static/js/main.ecf4569c.chunk.js"
+    "static/js/main.17de6219.chunk.js"
   ]
 }
